@@ -1,0 +1,3 @@
+[submodule "env-test3"]
+	path = env-test3
+	url = git@github.com:aws-org-ollie/env-test.git
